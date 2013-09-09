@@ -1,11 +1,11 @@
 Summary:	Long Range ZIP or Lzma RZIP
 Name:		lrzip
-Version:	0.615
+Version:	0.616
 Release:	1
 License:	GPL v2
 Group:		Applications/Archiving
 Source0:	http://ck.kolivas.org/apps/lrzip/%{name}-%{version}.tar.bz2
-# Source0-md5:	3bf6c154734d562895d6f9ed7d9a0a9a
+# Source0-md5:	1adc933a286af9384dbfaf028d690cf3
 URL:		http://ck.kolivas.org/apps/lrzip/
 BuildRequires:	autoconf
 BuildRequires:	automake
